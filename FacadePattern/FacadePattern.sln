@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FacadePattern", "FacadePattern\FacadePattern.vcxproj", "{2B662827-7A0D-4F02-AAB4-61E5E71A8A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B662827-7A0D-4F02-AAB4-61E5E71A8A2C}.Debug|x64.ActiveCfg = Debug|x64
+		{2B662827-7A0D-4F02-AAB4-61E5E71A8A2C}.Debug|x64.Build.0 = Debug|x64
+		{2B662827-7A0D-4F02-AAB4-61E5E71A8A2C}.Debug|x86.ActiveCfg = Debug|Win32
+		{2B662827-7A0D-4F02-AAB4-61E5E71A8A2C}.Debug|x86.Build.0 = Debug|Win32
+		{2B662827-7A0D-4F02-AAB4-61E5E71A8A2C}.Release|x64.ActiveCfg = Release|x64
+		{2B662827-7A0D-4F02-AAB4-61E5E71A8A2C}.Release|x64.Build.0 = Release|x64
+		{2B662827-7A0D-4F02-AAB4-61E5E71A8A2C}.Release|x86.ActiveCfg = Release|Win32
+		{2B662827-7A0D-4F02-AAB4-61E5E71A8A2C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7170298-3B98-47C7-912F-1CB8FF1D1134}
+	EndGlobalSection
+EndGlobal
